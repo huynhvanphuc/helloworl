@@ -5,8 +5,18 @@
     "description": "High"
   },
   "detail": {
-    "contributors": [],
-    "diagrams": [],
+    "contributors": [
+      {
+        "name": "Phuc"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Phuc",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "Phuc"
   }
 }
